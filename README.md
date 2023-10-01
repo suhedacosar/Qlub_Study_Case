@@ -22,6 +22,3 @@ To get report and run parallel tests (n= test cases)
 ## About Structure
 * You can configure credentials from conftest.fy
 * You can find reports under reports directory and reachable from terminal
-
-## Report Preview:
-![Screenshot 2023-10-01 at 17.26.51.png](..%2F..%2FDesktop%2FScreenshot%202023-10-01%20at%2017.26.51.png)
