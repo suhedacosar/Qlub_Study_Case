@@ -17,8 +17,6 @@ class CheckoutPage(SeleniumHelper):
     CARD_CVV = (By.XPATH, "//*[@id='cvv']")
     PAY_NOW_BUTTON = (By.XPATH, "//*[@id='checkout-action-btn']")
     PAYMENT_PASSWORD = (By.XPATH, "//input[@id='password']")
-    SUCCESS_ICON = (By.XPATH, "//span[@class='MuiBox-root css-ddok44']//*[name()='svg']")
-    SUCCESS_MSG = (By.XPATH, "//*[contains(@class, 'css-1dbb4wf')]")
     CONTINUE_BUTTON = (By.XPATH, "//*[@id='txtButton']")
     IFRAME = 'cko-3ds2-iframe'
 
